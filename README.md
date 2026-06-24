@@ -1,10 +1,14 @@
 # mp3_synthesizer_V_voice_matcher
-using gemini
+[exe 파일링크](https://drive.google.com/drive/folders/1nb9UgU_VA1voSfAzWjLTpJLt74XGa4IJ?usp=sharing)로 실행할때의 사용법은 글 하단에 있습니다.
 </br>
 </br>
 사용하시기전에 다음 절차를 따라 주십시오.
 </br>
 </br>
+======================================= python 사용법=======================================
+</br>
+</br>
+<br>
 app.py 와 gemini_recomender.py 및 voices_data.py 는 한 폴더에 있어야 하며 실행하실파일은 app.py 입니다.
 </br>
 </br>
@@ -17,9 +21,12 @@ pip install -U google-genai
 </br>
 </br>
 </br>
-아래에 더욱 쉬운 이해를 위한 이미지가 있습니다.
-</br>
-</br>
+
+
+================================== exe & python 공통 사용법 ===================================
+
+
+
 ```
 1. https://aistudio.google.com/api-keys 이 사이트에 들어가셔서 우측상단의 " api 키 만들기 " 를 클릭하여주십시오.
 2. " API키 세부정보 " 라는 창이 뜨면 제일 위에 있는 API 키 를 복사 하여주십시오.
@@ -33,6 +40,13 @@ pip install -U google-genai
 )
 
 ```
+</br>
+</br>
+아래에 더욱 쉬운 이해를 위한 이미지가 있습니다.
+</br>
+</br>
+
+
 </br>
 </br>
 <img src="https://github.com/peropero1111/mp3_synthesizer_V_voice_mather-/blob/main/img/2026-06-23%20212257.png" width="450" height="450"/>  
